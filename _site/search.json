@@ -4,14 +4,14 @@
     "href": "index.html",
     "title": "Kirtan Gangani",
     "section": "",
-    "text": "GitHub\n      \n      \n        \n          LinkedIn\n      \n      \n        \n          Email\n      \n    \n  \n  \n    \n      I am a recent B.Tech graduate in Computer Engineering from Ajeenkya DY Patil University, where I completed my degree with a GPA of 9.41/10. Currently, I’m a Research Intern at the Sustainability Lab, IIT Gandhinagar led by Prof. Nipun Batra, where I’m applying artificial intelligence to healthcare — specifically, building vision-based systems for sleep apnea detection using thermal imagery alone, without relying on wearable sensors.\n    \n\n    \n      My technical strengths lie in machine learning, computer vision, NLP, and large language models. I enjoy designing end-to-end ML pipelines and have worked extensively with frameworks like TensorFlow, Hugging Face Transformers, and YOLO architectures. I’m deeply motivated by research that blends practical impact with technical rigor, and I aspire to pursue a Ph.D. in Computer Science to further explore AI for real-world challenges.\n    \n\n    \n      Outside of academics, I am a chess player with a peak Chess.com rapid rating of 1890."
+    "text": "GitHub\n      \n      \n        \n          LinkedIn\n      \n      \n        \n          Email\n      \n    \n  \n  \n    \n      I am a recent B.Tech graduate in Computer Engineering from Ajeenkya DY Patil University, where I completed my degree with a GPA of 9.41/10. Currently, I'm a Research Associate at the Sustainability Lab, IIT Gandhinagar led by Prof. Nipun Batra, where I'm applying artificial intelligence to healthcare — specifically, building vision-based systems for sleep apnea detection using thermal imagery alone, without relying on wearable sensors.\n    \n\n    \n      My technical strengths lie in machine learning, computer vision, NLP, and large language models. I enjoy designing end-to-end ML pipelines and have worked extensively with frameworks like TensorFlow, Hugging Face Transformers, and YOLO architectures. I'm deeply motivated by research that blends practical impact with technical rigor, and I aspire to pursue a Ph.D. in Computer Science to further explore AI for real-world challenges.\n    \n\n    \n      Outside of academics, I am a chess player with a peak Chess.com rapid rating of 2000 (Top 0.5% globally)."
   },
   {
     "objectID": "index.html#my-journey-so-far",
     "href": "index.html#my-journey-so-far",
     "title": "Kirtan Gangani",
     "section": "My Journey So Far",
-    "text": "My Journey So Far\n\n\n\n9 May 2025 – 15 July 2025\n\n\nSuccessfully Completed Research Internship at Sustainability Lab, IIT Gandhinagar\n\n\n\n\nMay 2025\n\n\nCompleted B.Tech in Computer Engineering from Ajeenkya DY Patil University\n\n\n\n\nAug 2021\n\n\nStarted B.Tech in Computer Engineering at Ajeenkya DY Patil University"
+    "text": "My Journey So Far\n\n\n\nAug 2025 – Present\n\n\nJoined as Research Associate at Sustainability Lab, IIT Gandhinagar\n\n\n\n\n9 May 2025 – 15 July 2025\n\n\nSuccessfully Completed Research Internship at Sustainability Lab, IIT Gandhinagar\n\n\n\n\nMay 2025\n\n\nCompleted B.Tech in Computer Engineering from Ajeenkya DY Patil University\n\n\n\n\nAug 2021\n\n\nStarted B.Tech in Computer Engineering at Ajeenkya DY Patil University"
   },
   {
     "objectID": "blog-posts/sampling-using-uniform-distribution.html",
@@ -348,5 +348,12 @@
     "title": "Understanding the LSTM Cell",
     "section": "Disadvantages of LSTMs:",
     "text": "Disadvantages of LSTMs:\n\nComputational Cost: LSTMs are more computationally intensive and slower to train compared to simpler neural networks or even standard RNNs. This is due to the increased number of parameters (weights and biases for each gate) and the complex calculations involved in their internal mechanisms.\nComplex Architecture: The multiple gates and intricate interactions within an LSTM cell make them more complex to understand and debug compared to simpler models. While powerful, this complexity can be a barrier for newcomers.\nDifficulty with Very Long Sequences: Although LSTMs significantly mitigate the long-term dependency problem, they can still struggle with extremely long sequences. As the sequence length increases, the computational burden grows, and even LSTMs can start to lose efficiency or effectiveness.\nLimited Parallelization: The inherent sequential nature of LSTMs (processing one time step after another) makes it challenging to fully parallelize their training across multiple computing cores or GPUs, especially during the forward and backward passes within a sequence. This is a key area where newer architectures like Transformers have shown significant advantages.\nHyperparameter Tuning: LSTMs often require careful tuning of hyperparameters (e.g., number of hidden units, learning rate, dropout) to achieve optimal performance, which can be a time-consuming process.\nOutshined by Transformers in Many NLP Tasks: For many state-of-the-art NLP tasks, transformer architectures (which use attention mechanisms instead of recurrence) have largely surpassed LSTMs in performance, particularly for very long sequences and tasks requiring complex contextual understanding."
+  },
+  {
+    "objectID": "index.html#publications",
+    "href": "index.html#publications",
+    "title": "Kirtan Gangani",
+    "section": "Publications",
+    "text": "Publications\n\n\n\nKDD 2026\n\n\nThermEval: A Structured Benchmark for Evaluation of Vision-Language Models on Thermal ImageryAyush Shrivastava, Kirtan Gangani, Laksh Jain, Mayank Goel, Nipun BatraACM SIGKDD Conference on Knowledge Discovery and Data Mining, 2026"
   }
 ]
