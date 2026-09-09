@@ -2,54 +2,46 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://KirtanGangani.github.io/index.html</loc>
-    <lastmod>2026-06-05T09:21:42.646Z</lastmod>
+    <lastmod>2026-09-09T08:17:49.267Z</lastmod>
   </url>
   <url>
     <loc>https://KirtanGangani.github.io/blog-posts/sampling-using-uniform-distribution.html</loc>
-    <lastmod>2026-06-05T09:11:46.698Z</lastmod>
+    <lastmod>2026-09-08T11:35:42.823Z</lastmod>
   </url>
   <url>
     <loc>https://KirtanGangani.github.io/blog-posts/minima-maxima.html</loc>
-    <lastmod>2026-06-05T09:11:46.694Z</lastmod>
+    <lastmod>2026-09-08T11:35:42.818Z</lastmod>
   </url>
   <url>
     <loc>https://KirtanGangani.github.io/blog-posts/index.html</loc>
-    <lastmod>2026-06-05T09:11:46.684Z</lastmod>
-  </url>
-  <url>
-    <loc>https://KirtanGangani.github.io/blog-posts/fast-fourier-transformer.html</loc>
-    <lastmod>2026-06-05T09:11:46.638Z</lastmod>
-  </url>
-  <url>
-    <loc>https://KirtanGangani.github.io/blog-posts/confusing-english.html</loc>
-    <lastmod>2026-06-05T09:11:44.579Z</lastmod>
-  </url>
-  <url>
-    <loc>https://KirtanGangani.github.io/about.html</loc>
-    <lastmod>2026-06-05T09:11:44.573Z</lastmod>
-  </url>
-  <url>
-    <loc>https://KirtanGangani.github.io/blog-posts/brain-to-breath.html</loc>
-    <lastmod>2026-06-05T09:11:44.577Z</lastmod>
+    <lastmod>2026-09-08T11:35:42.810Z</lastmod>
   </url>
   <url>
     <loc>https://KirtanGangani.github.io/blog-posts/convlstm.html</loc>
-    <lastmod>2026-06-05T09:11:44.581Z</lastmod>
+    <lastmod>2026-09-08T11:35:40.658Z</lastmod>
   </url>
   <url>
-    <loc>https://KirtanGangani.github.io/blog-posts/git-action.html</loc>
-    <lastmod>2026-06-05T09:11:46.639Z</lastmod>
+    <loc>https://KirtanGangani.github.io/about.html</loc>
+    <lastmod>2026-09-08T11:35:40.653Z</lastmod>
+  </url>
+  <url>
+    <loc>https://KirtanGangani.github.io/blog-posts/brain-to-breath.html</loc>
+    <lastmod>2026-09-08T11:35:40.655Z</lastmod>
+  </url>
+  <url>
+    <loc>https://KirtanGangani.github.io/blog-posts/fast-fourier-transformer.html</loc>
+    <lastmod>2026-09-08T11:35:42.761Z</lastmod>
   </url>
   <url>
     <loc>https://KirtanGangani.github.io/blog-posts/markov-chain.html</loc>
-    <lastmod>2026-06-05T09:11:46.685Z</lastmod>
+    <lastmod>2026-09-08T11:35:42.812Z</lastmod>
   </url>
   <url>
     <loc>https://KirtanGangani.github.io/blog-posts/prng-algorithm.html</loc>
-    <lastmod>2026-06-05T09:11:46.697Z</lastmod>
+    <lastmod>2026-09-08T11:35:42.822Z</lastmod>
   </url>
   <url>
     <loc>https://KirtanGangani.github.io/blog-posts/understanding-lstm.html</loc>
-    <lastmod>2026-06-05T09:11:46.700Z</lastmod>
+    <lastmod>2026-09-08T11:35:42.826Z</lastmod>
   </url>
 </urlset>
