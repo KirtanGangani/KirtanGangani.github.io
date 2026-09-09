@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Kirtan Gangani",
     "section": "",
-    "text": "GitHub\n      \n      \n        \n          LinkedIn\n      \n      \n        \n          Email\n      \n    \n  \n  \n    \n      I am a recent B.Tech graduate in Computer Engineering from Ajeenkya DY Patil University, where I completed my degree with a GPA of 9.41/10. Currently, I'm a Research Associate at the Sustainability Lab, IIT Gandhinagar led by Prof. Nipun Batra, where I'm applying artificial intelligence to healthcare — specifically, building vision-based systems for sleep apnea detection using thermal imagery alone, without relying on wearable sensors.\n    \n\n    \n      My technical strengths lie in machine learning, computer vision, NLP, and large language models. I enjoy designing end-to-end ML pipelines and have worked extensively with frameworks like TensorFlow, Hugging Face Transformers, and YOLO architectures. I'm deeply motivated by research that blends practical impact with technical rigor, and I aspire to pursue a Ph.D. in Computer Science to further explore AI for real-world challenges.\n    \n\n    \n      Outside of academics, I am a chess player with a peak Chess.com rapid rating of 2000 (Top 0.5% globally)."
+    "text": "I am a computer vision and machine learning researcher interested in\n      vision-language models, multimodal learning, and visual reasoning.\n      I completed my B.Tech in Computer Engineering from Ajeenkya DY Patil University\n      with a GPA of 9.41/10 and a bronze medal for ranking third in\n      my graduating batch.\n    \n\n    \n      I recently worked as a Research Associate at the\n      Sustainability Lab\n      at IIT Gandhinagar, led by\n      Prof. Nipun Batra.\n      My recent research has focused on understanding the capabilities and limitations\n      of Vision-Language Models (VLMs) on thermal infrared imagery.\n      I co-developed\n      ThermEval,\n      a structured benchmark for evaluating VLMs on thermal imagery, which was accepted\n      at the ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2026).\n    \n\n    \n      My broader interests include computer vision, vision-language models,\n      multimodal AI, visual reasoning, and efficient machine learning.\n      I enjoy building end-to-end research systems, from dataset construction and\n      evaluation pipelines to model development and experimentation. I am interested\n      in pursuing graduate research at the intersection of these areas.\n    \n\n    \n      Outside of research, I am a chess player with a peak\n      Chess.com\n      rapid rating of 2000."
   },
   {
     "objectID": "index.html#my-journey-so-far",
@@ -74,7 +74,7 @@
     "href": "blog-posts/index.html",
     "title": "My Blogs",
     "section": "",
-    "text": "Don’t Let These Confusing English Words Trip You Up!\n\n\n\nEnglish\n\n\n\n\n\n\n\nKirtan Gangani\n\n\nJul 15, 2025\n\n\n\n\n\n\n\n\n\n\n\nIntroduction to Fast Fourier Transformer (FFT)\n\n\n\nSignal Processing\n\nFFT\n\n\n\n\n\n\n\nKirtan Gangani\n\n\nJul 15, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nExplore GitHub Beyond Codes\n\n\n\ngit\n\nportfolio\n\npersonal branding\n\nweb development\n\n\n\n\n\n\n\nKirtan Gangani\n\n\nJul 14, 2025\n\n\n\n\n\n\n\n\n\n\n\nFinding Minimas and Maximas using SciPy\n\n\n\nPython\n\nSciPy\n\nData Visualisation\n\n\n\n\n\n\n\nKirtan Gangani\n\n\nJul 14, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nPseudoRandom Number Generator (PRNG)\n\n\n\nDeterministic\n\nSeed-based\n\n\n\n\n\n\n\nKirtan Gangani\n\n\nJul 14, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nSampling From Categorical Distribution Using Uniform Distribution\n\n\n\nStatistics\n\nProbability\n\n\n\n\n\n\n\nKirtan Gangani\n\n\nJul 14, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nUnderstanding ConvLSTM\n\n\n\nCNN\n\nLSTM\n\n\n\n\n\n\n\nKirtan Gangani\n\n\nJul 13, 2025\n\n\n\n\n\n\n\n\n\n\n\nHow Does Brain Focus Influences Your Respiration?\n\n\n\nData Visualization\n\nMatplotlib\n\n\n\n\n\n\n\nKirtan Gangani\n\n\nJul 11, 2025\n\n\n\n\n\n\n\n\n\n\n\nUnderstanding Markov Chains\n\n\n\nProbability\n\nStatistics\n\n\n\n\n\n\n\nKirtan Gangani\n\n\nJul 10, 2025\n\n\n\n\n\n\n\n\n\n\n\nUnderstanding the LSTM Cell\n\n\n\nDeep Learning\n\nLSTM\n\n\n\n\n\n\n\nKirtan Gangani\n\n\nJul 10, 2025\n\n\n\n\n\n\nNo matching items"
+    "text": "Introduction to Fast Fourier Transformer (FFT)\n\n\n\nSignal Processing\n\nFFT\n\n\n\n\n\n\n\nKirtan Gangani\n\n\nJul 15, 2025\n\n\n\n\n\n\n\n\n\n\n\nFinding Minimas and Maximas using SciPy\n\n\n\nPython\n\nSciPy\n\nData Visualisation\n\n\n\n\n\n\n\nKirtan Gangani\n\n\nJul 14, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nPseudoRandom Number Generator (PRNG)\n\n\n\nDeterministic\n\nSeed-based\n\n\n\n\n\n\n\nKirtan Gangani\n\n\nJul 14, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nSampling From Categorical Distribution Using Uniform Distribution\n\n\n\nStatistics\n\nProbability\n\n\n\n\n\n\n\nKirtan Gangani\n\n\nJul 14, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nUnderstanding ConvLSTM\n\n\n\nCNN\n\nLSTM\n\n\n\n\n\n\n\nKirtan Gangani\n\n\nJul 13, 2025\n\n\n\n\n\n\n\n\n\n\n\nHow Does Brain Focus Influences Your Respiration?\n\n\n\nData Visualization\n\nMatplotlib\n\n\n\n\n\n\n\nKirtan Gangani\n\n\nJul 11, 2025\n\n\n\n\n\n\n\n\n\n\n\nUnderstanding Markov Chains\n\n\n\nProbability\n\nStatistics\n\n\n\n\n\n\n\nKirtan Gangani\n\n\nJul 10, 2025\n\n\n\n\n\n\n\n\n\n\n\nUnderstanding the LSTM Cell\n\n\n\nDeep Learning\n\nLSTM\n\n\n\n\n\n\n\nKirtan Gangani\n\n\nJul 10, 2025\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "blog-posts/fast-fourier-transformer.html",
@@ -354,6 +354,34 @@
     "href": "index.html#publications",
     "title": "Kirtan Gangani",
     "section": "Publications",
-    "text": "Publications\n\n\n\nKDD 2026\n\n\nThermEval: A Structured Benchmark for Evaluation of Vision-Language Models on Thermal ImageryAyush Shrivastava, Kirtan Gangani, Laksh Jain, Mayank Goel, Nipun BatraACM SIGKDD Conference on Knowledge Discovery and Data Mining, 2026"
+    "text": "Publications\n\n\n\nKDD 2026\n\n\n ThermEval: A Structured Benchmark for Evaluation of Vision-Language Models on Thermal Imagery   Ayush Shrivastava, Kirtan Gangani, Laksh Jain, Mayank Goel, Nipun Batra  ACM SIGKDD Conference on Knowledge Discovery and Data Mining, 2026"
+  },
+  {
+    "objectID": "index.html#research-interests",
+    "href": "index.html#research-interests",
+    "title": "Kirtan Gangani",
+    "section": "Research Interests",
+    "text": "Research Interests\nComputer Vision · Vision-Language Models · Multimodal Learning · AI for Healthcare"
+  },
+  {
+    "objectID": "index.html#research-academic-journey",
+    "href": "index.html#research-academic-journey",
+    "title": "Kirtan Gangani",
+    "section": "Research & Academic Journey",
+    "text": "Research & Academic Journey\n\n\n\nAug 2025 – Present\n\n\nResearch Associate, Sustainability Lab, IIT Gandhinagar\n\n\n\n\nMay 2025 – Jul 2025\n\n\nResearch Intern, Sustainability Lab, IIT Gandhinagar\n\n\n\n\nAug 2021 – May 2025\n\n\nB.Tech in Computer Engineering, Ajeenkya DY Patil University"
+  },
+  {
+    "objectID": "index.html#research",
+    "href": "index.html#research",
+    "title": "Kirtan Gangani",
+    "section": "Research",
+    "text": "Research\nMy recent work focuses on Vision-Language Models for thermal infrared imagery, with an emphasis on evaluating their capabilities, limitations, and failure modes.\n\nThermEval\nThermEval: A Structured Benchmark for Evaluation of Vision-Language Models on Thermal Imagery\nI co-developed ThermEval, a benchmark designed to systematically evaluate VLMs across seven tasks involving thermal imagery. The benchmark evaluates 25 vision-language models and investigates their ability to understand, reason about, and answer questions grounded in thermal scenes.\nProject Page · Paper"
+  },
+  {
+    "objectID": "index.html#experience-education",
+    "href": "index.html#experience-education",
+    "title": "Kirtan Gangani",
+    "section": "Experience & Education",
+    "text": "Experience & Education\n\n\n\nAug 2025 – Jul 2026\n\n\nResearch Associate at Sustainability Lab, IIT Gandhinagar\n\n\n\n\n9 May 2025 – 15 July 2025\n\n\nResearch Intern at Sustainability Lab, IIT Gandhinagar\n\n\n\n\n2021 – 2025\n\n\nB.Tech in Computer Engineering, Ajeenkya DY Patil University  GPA: 9.41/10 · Bronze Medal (3rd in graduating batch)"
   }
 ]
